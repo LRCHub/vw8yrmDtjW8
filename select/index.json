@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最果てのディスティネーション",
+  "base_artist": "NEO BREAK",
+  "createdAt": "2026-02-22T11:22:35.048672Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最果てのディスティネーション",
+      "artist": "NEO BREAK",
+      "has_synced": false,
+      "path": "select/pl_01_最果てのディスティネーション_NEO_BREAK.txt"
+    }
+  ]
+}
